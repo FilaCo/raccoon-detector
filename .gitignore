@@ -1,0 +1,11 @@
+###< Build artifacts ###
+/target/
+###> Build artifacts ###
+
+###< IDE ###
+/.idea/
+###> IDE ###
+
+###< Env files ###
+/.env
+###> Env files ###
